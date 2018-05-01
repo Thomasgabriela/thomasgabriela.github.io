@@ -1,0 +1,39 @@
+<html>
+<head> 
+	<style> type="text/css">
+		* { font-family: Ariel, Verdana;} 
+		
+	body {background-image: url('colorrmd.gif');}	
+	.heart {position: fixed;
+		top: 25%;
+		left: 35%;
+		width: 600px;}
+	.rate {position: fixed;
+		top: 40%;
+		width: 1350px;}
+	.flower {position: fixed;
+		top: 65%;
+		left: 33%;
+		width: 700px;}
+	.lips	{position: relative;
+		left: 70%;
+		top: 5%;
+		width:250px;}
+	.lips2 	{position: relative;		
+		top:5%;
+		width:250px;}
+
+	</style>
+</head>
+
+<body>
+
+<img class= "heart" src="heartrmd2.gif" /> 
+<img class= "rate" src="heartrate.gif" />
+<img class= "flower" src="flowerog.gif" />
+<img class= "lips"	src="lips.gif" />
+<img class= "lips2"	src="lips.gif" />
+
+
+
+</html>

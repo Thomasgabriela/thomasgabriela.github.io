@@ -1,0 +1,48 @@
+<manifest alg="2" build="2018.0.0.379" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="RMDrakeFinalNavPage.com" resolutions="1x" timestamp="1524759016795">
+  <folder name="css">
+    <file name="site_global.css" crc="3958887892"/>
+    <file name="variation-2.css" crc="41984911" ref="variation-2"/>
+    <file name="index.css" crc="4277270570" ref="index"/>
+    <file name="variation-1.css" crc="22144685" ref="variation-1"/>
+    <file name="untitled-4.css" crc="4193191577" ref="untitled-4"/>
+  </folder>
+  <folder name="assets">
+    <file name="videovar5background.mp4" crc="4058654777" seo="true" mt="1523467194000"/>
+    <file name="color-site-rmdrake.txt" crc="388121437" seo="true" mt="1520815954000"/>
+    <file name="colorrmd.gif" crc="3902296779" seo="true" mt="1520837956000"/>
+    <file name="colorrmd.psd" crc="3863725644" seo="true" mt="1520838344000"/>
+    <file name="colorsitermdrake" crc="508228960" seo="true" mt="1520840450000"/>
+    <file name="flowerog.gif" crc="60208938" seo="true" mt="1520836150000"/>
+    <file name="heartrate.gif" crc="3845598373" seo="true" mt="1520833830000"/>
+    <file name="heartrmd.gif" crc="3979277462" seo="true" mt="1520827700000"/>
+    <file name="heartrmd2.gif" crc="4050330221" seo="true" mt="1520832944000"/>
+    <file name="lips.gif" crc="4159554790" seo="true" mt="1520839202000"/>
+    <file name="rmdrake_gethomas-copy.html" crc="56813553" seo="true" mt="1522242922000"/>
+    <file name="bfastrunningintoself.mp3" crc="4269782044" seo="true" mt="1522211670000"/>
+    <file name="eden.mp3" crc="234985289" seo="true" mt="1522213044000"/>
+    <file name="sheisbyben.mp3" crc="3850888833" seo="true" mt="1522208700000"/>
+    <file name="noplacelikehome.mp3" crc="4077725507" seo="true" mt="1522210218000"/>
+    <file name="colorsitermdrake.html" crc="213012127" seo="true" mt="1523846664000"/>
+    <file name="animate-text-up-fadein.zip" crc="3923835648" seo="true" mt="1523849160000"/>
+    <file name="sliding-diagonals-effect.mulib" crc="310641221" seo="true" mt="1523849160000"/>
+  </folder>
+  <folder name="scripts">
+    <file name="jquery-1.8.3.min.js" crc="209076791" ref="index:variation-1:variation-2:untitled-4"/>
+    <file name="museutils.js" crc="3803043152" ref="index:variation-1:variation-2:untitled-4"/>
+    <file name="whatinput.js" crc="86476730" ref="index:variation-1:variation-2:untitled-4"/>
+    <file name="museconfig.js" crc="380897831" ref="index:variation-1:variation-2:untitled-4"/>
+    <file name="jquery.watch.js" crc="99325471" ref="index:variation-1:variation-2:untitled-4"/>
+    <file name="require.js" crc="4157109226" ref="index:variation-1:variation-2:untitled-4"/>
+    <file name="webpro.js" crc="242022427" ref="variation-2"/>
+    <file name="musewpslideshow.js" crc="457073769" ref="variation-2"/>
+    <file name="jquery.museoverlay.js" crc="483674903" ref="variation-2"/>
+    <file name="touchswipe.js" crc="4066113679" ref="variation-2"/>
+  </folder>
+  <folder name="images">
+    <file name="blank.gif" crc="4208392903" ref="index"/>
+  </folder>
+  <file name="index.html" crc="3925124233" seo="true" mt="1523883504650" redirect="true"/>
+  <file name="variation-1.html" crc="113910638" seo="true" mt="1523838611009" redirect="true"/>
+  <file name="variation-2.html" crc="4008088140" seo="true" mt="1523844554295" redirect="true"/>
+  <file name="untitled-4.html" crc="3907800897" seo="true" mt="1523882317047" redirect="false"/>
+</manifest>

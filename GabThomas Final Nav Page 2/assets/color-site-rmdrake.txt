@@ -1,0 +1,17 @@
+<html>
+
+	
+	<body>
+	<h1 class= "animated infinite pulse"> SHE WAS... </h1>
+<p class= "she"> </p>
+	<h2 class= "animated infinite flash"></h2>
+	<h3  class= "animated infinite pulse"> </h3>
+
+<p class= "wild"> </p>
+
+<p class= "home">  </p>
+
+	</body>
+
+</html>
+
